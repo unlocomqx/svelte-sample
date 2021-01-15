@@ -5,7 +5,7 @@
   $: quadruple = count * 4;
   setInterval(() => {
     count++;
-  }, 1000000);
+  }, 5000);
 
   setTimeout(() => {
     count++;
